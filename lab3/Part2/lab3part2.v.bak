@@ -1,0 +1,11 @@
+module FA(input a, b, cin, output s, cout);
+	assign s = a ^ b ^ cin;
+	assign cout = a & b | a & c | b & cin;
+end module 
+
+module lab3part2(A, B, cin, S, cout);
+	input [3:0]A, B;
+	input cin;
+	output [3:0]S;
+	output cout;
+	wire c1, c2, c3;

@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab3/Part3
+vFA
+Z1 !s110 1570161152
+!i10b 1
+!s100 5f;GX9l<hA7?]J?7[<a4c2
+I;GalN@jmnKYm^[:2gA5C_0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab3/part3
+Z4 w1570159960
+Z5 8lab3part3.v
+Z6 Flab3part3.v
+L0 93
+Z7 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z8 !s108 1570161152.000000
+Z9 !s107 lab3part3.v|
+Z10 !s90 -reportprogress|300|lab3part3.v|
+!i113 1
+Z11 tCvgOpt 0
+n@f@a
+vhex_display
+R1
+!i10b 1
+!s100 UD7Q;ZmJJ2>OzG`5:U<nE2
+IcO8;Oz_EOGcW=:8eS@=GG1
+R2
+R3
+R4
+R5
+R6
+Z12 L0 99
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vhexdecoder
+!s110 1569795024
+!i10b 1
+!s100 Go6dHl^XVIz93N2aTe=Cb1
+IBY_6Bz[f_ZOfO070C[ZnJ0
+R2
+R0
+w1569795019
+R5
+R6
+R12
+R7
+r1
+!s85 0
+31
+!s108 1569795024.000000
+R9
+R10
+!i113 1
+R11
+vlab3part3
+R1
+!i10b 1
+!s100 gPnfzOA[iQFkjFi4fFL_10
+InmmlN;Z<Km?R4B2AUKe=S2
+R2
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11

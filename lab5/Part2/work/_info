@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab5/Part2
+vfourbitcounter
+Z0 !s110 1571959014
+!i10b 1
+!s100 MB6oJ`TQ>@[654jjX8NOB3
+I]^AQGI^Vi1ahfzDjcozdQ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab5/part2
+Z3 w1571613751
+Z4 8lab5part2.v
+Z5 Flab5part2.v
+L0 48
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1571959014.000000
+Z8 !s107 lab5part2.v|
+Z9 !s90 -reportprogress|300|lab5part2.v|
+!i113 1
+Z10 tCvgOpt 0
+vfrequency
+R0
+!i10b 1
+!s100 jbP[VV2UVn;9AeMz>^c==2
+IWczFlS99_01JcN;WJF:AP2
+R1
+R2
+R3
+R4
+R5
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vlab5part2
+R0
+!i10b 1
+!s100 T:@FVf4[cz06RR?DOlOjO2
+IKnAef:35f6mXj8cGQnCVK1
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vratedivider
+R0
+!i10b 1
+!s100 TVB^PRW7NE^Ml;cM`FCk42
+IWWaC]iQmXjTP>T4[kS7?_0
+R1
+R2
+R3
+R4
+R5
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vseven_segment
+R0
+!i10b 1
+!s100 NeSiNVQXoPSR<dHa41n4[1
+IkdFB57i1TL[eQn9YBE6BT3
+R1
+R2
+R3
+R4
+R5
+L0 73
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

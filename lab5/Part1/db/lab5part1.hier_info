@@ -1,0 +1,159 @@
+|lab5part1
+SW[0] => SW[0].IN9
+SW[1] => ~NO_FANOUT~
+KEY[0] => KEY[0].IN8
+KEY[1] => ~NO_FANOUT~
+HEX0[0] <= seven_segment:s0.result
+HEX0[1] <= seven_segment:s0.result
+HEX0[2] <= seven_segment:s0.result
+HEX0[3] <= seven_segment:s0.result
+HEX0[4] <= seven_segment:s0.result
+HEX0[5] <= seven_segment:s0.result
+HEX0[6] <= seven_segment:s0.result
+HEX1[0] <= seven_segment:s1.result
+HEX1[1] <= seven_segment:s1.result
+HEX1[2] <= seven_segment:s1.result
+HEX1[3] <= seven_segment:s1.result
+HEX1[4] <= seven_segment:s1.result
+HEX1[5] <= seven_segment:s1.result
+HEX1[6] <= seven_segment:s1.result
+
+
+|lab5part1|tflipflop:u1
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u2
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u3
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u4
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u5
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u6
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u7
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|tflipflop:u8
+clock => q~reg0.CLK
+resetn => q~reg0.ACLR
+t => q~reg0.ENA
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|seven_segment:s0
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[2] => result.IN0
+data[2] => result.IN0
+data[2] => result.IN0
+data[2] => result.IN0
+data[3] => result.IN1
+data[3] => result.IN1
+data[3] => result.IN1
+data[3] => result.IN1
+result[0] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|lab5part1|seven_segment:s1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[0] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[1] => result.IN1
+data[2] => result.IN0
+data[2] => result.IN0
+data[2] => result.IN0
+data[2] => result.IN0
+data[3] => result.IN1
+data[3] => result.IN1
+data[3] => result.IN1
+data[3] => result.IN1
+result[0] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[1] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[2] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[3] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[4] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[5] <= result.DB_MAX_OUTPUT_PORT_TYPE
+result[6] <= result.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,152 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab2/final
+vLab2Part2
+Z1 !s110 1569532426
+!i10b 1
+!s100 <<3M=C9afeifIi8X0f>HI3
+IYbgo8ZPPb[k0SiYIGLg=G0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1569532347
+Z4 8Lab2Part2.v
+Z5 FLab2Part2.v
+L0 48
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1569532426.000000
+Z8 !s107 Lab2Part2.v|
+Z9 !s90 -reportprogress|300|Lab2Part2.v|
+!i113 1
+Z10 tCvgOpt 0
+n@lab2@part2
+vLab2Part3
+!s110 1569543189
+!i10b 1
+!s100 H^7d@dle:C[>9N9NJ4k]i0
+Im@GQAN]T<oz;oYdU1:>=T3
+R2
+dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab2/Final
+w1569531669
+8Lab2Part3.v
+FLab2Part3.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1569543189.000000
+!s107 Lab2Part3.v|
+!s90 -reportprogress|300|Lab2Part3.v|
+!i113 1
+R10
+n@lab2@part3
+vmux
+Z11 !s110 1569532409
+!i10b 1
+!s100 gdITfj5:eEbOamVHI^l6`0
+I:<b9oefGFn[?hASbTSWH:3
+R2
+R0
+Z12 w1569189200
+Z13 8mux.v
+Z14 Fmux.v
+L0 8
+R6
+r1
+!s85 0
+31
+Z15 !s108 1569532409.000000
+Z16 !s107 mux.v|
+Z17 !s90 -reportprogress|300|mux.v|
+!i113 1
+R10
+vmux2to1
+R11
+!i10b 1
+!s100 afChEB93:g=CUEd@;WQjS2
+I=F?kSLR6zRa1[@IoCQG<60
+R2
+R0
+R12
+R13
+R14
+L0 20
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+vv7404
+R1
+!i10b 1
+!s100 jhJZSja0PIR;gf9Mk4P>U0
+Io6IF^XBY8JDA3ifniH8=43
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vv7408
+R1
+!i10b 1
+!s100 8DYi=E56gkfRMQh3TRWGF1
+IhZYb>o=GMK7:aNX=Q`RAa1
+R2
+R0
+R3
+R4
+R5
+L0 18
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vv7432
+R1
+!i10b 1
+!s100 =^`dlAVOV1`dL5oV2lj`@0
+I^YZFDB:ed?nj_O:Jl36:O0
+R2
+R0
+R3
+R4
+R5
+L0 33
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

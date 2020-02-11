@@ -1,0 +1,13 @@
+module FSM_Main(paddle_x, paddle_y, ball_x, ball_y, Brick_enable, Draw_START, Draw_complete, KEY, CLOCK);
+	input CLOCK;
+	input [3:0] KEY; //controls for paddle
+	output reg [19:0] Brick_enable; //holds which blocks are enabled as 1
+	output reg [7:0] paddle_x,paddle_y,ball_x,ball_y;
+	reg x_dir,y_dir; //stores 1 or 0 (direction of ball)
+	//used to activate Draw_FSM
+	output Draw_START;
+	input Draw_complete;
+	reg [25:0] clockCount;//stores present clock cycle
+	reg [5:0] clockCount60; //increment 60 times a second
+	reg [3:0] state; //state variables
+	reg [3:0] Nstate;

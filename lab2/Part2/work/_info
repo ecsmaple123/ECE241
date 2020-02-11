@@ -1,0 +1,111 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab2/part2
+vLab2Part3
+!s110 1569532053
+!i10b 1
+!s100 H^7d@dle:C[>9N9NJ4k]i0
+Im@GQAN]T<oz;oYdU1:>=T3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab2/Part2
+w1569531669
+8Lab2Part3.v
+FLab2Part3.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1569532053.000000
+!s107 Lab2Part3.v|
+!s90 -reportprogress|300|Lab2Part3.v|
+!i113 1
+Z3 tCvgOpt 0
+n@lab2@part3
+vmux2to1_1bit
+Z4 !s110 1569531732
+!i10b 1
+!s100 hLkV[KmEZ5;39RgU=>a;@2
+I@=oCW70J9@o8Ql2oX6O2]2
+R1
+R0
+Z5 w1569286252
+Z6 8Lab2Part2.v
+Z7 FLab2Part2.v
+L0 48
+R2
+r1
+!s85 0
+31
+Z8 !s108 1569531732.000000
+Z9 !s107 Lab2Part2.v|
+Z10 !s90 -reportprogress|300|Lab2Part2.v|
+!i113 1
+R3
+vv7404
+R4
+!i10b 1
+!s100 jhJZSja0PIR;gf9Mk4P>U0
+Io6IF^XBY8JDA3ifniH8=43
+R1
+R0
+R5
+R6
+R7
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
+vv7408
+R4
+!i10b 1
+!s100 8DYi=E56gkfRMQh3TRWGF1
+IhZYb>o=GMK7:aNX=Q`RAa1
+R1
+R0
+R5
+R6
+R7
+L0 18
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
+vv7432
+R4
+!i10b 1
+!s100 =^`dlAVOV1`dL5oV2lj`@0
+I^YZFDB:ed?nj_O:Jl36:O0
+R1
+R0
+R5
+R6
+R7
+L0 33
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3

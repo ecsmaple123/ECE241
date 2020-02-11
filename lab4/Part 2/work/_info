@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab4/Part 2
+vFA
+Z1 !s110 1570301541
+!i10b 1
+!s100 JRD^R?S35;:WzC3_fQg^k1
+ICmeJ2VKTF5_Rz:]S@FS<_2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1570301435
+Z4 8lab4part2.v
+Z5 Flab4part2.v
+L0 90
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1570301541.000000
+Z8 !s107 lab4part2.v|
+Z9 !s90 -reportprogress|300|lab4part2.v|
+!i113 1
+Z10 tCvgOpt 0
+n@f@a
+vfourbitaddition
+Z11 !s110 1570757820
+!i10b 1
+!s100 J6mckacLLd@V]YmZCmKVD0
+ID@JUN>z5IDFMA9bG<GzzR1
+R2
+R0
+Z12 w1570742827
+R4
+R5
+L0 7
+R6
+r1
+!s85 0
+31
+Z13 !s108 1570757820.000000
+R8
+R9
+!i113 1
+R10
+vfullAdder
+R11
+!i10b 1
+!s100 ^:5A^`okUg]@Cg9i=G=5Y0
+Idm7i:>8CgoI<:;G>`Cn5A1
+R2
+R0
+R12
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+R8
+R9
+!i113 1
+R10
+nfull@adder
+vhex_display
+R1
+!i10b 1
+!s100 TX5A7bK>7BkzgkHMLEFzW2
+IT7gAin?mYkENY7M7XkMgL1
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vlab4part2
+R11
+!i10b 1
+!s100 DQRHQ>lHOkRVEF78BiL6h3
+Ik^dIPcgN4adH:ml_0?m[m3
+R2
+R0
+R12
+R4
+R5
+L0 21
+R6
+r1
+!s85 0
+31
+R13
+R8
+R9
+!i113 1
+R10
+vseven_segment
+R11
+!i10b 1
+!s100 9H^N5><W@ebod^kB_D[YD3
+I:_WfnPzS?Ln<=:2TIE7`31
+R2
+R0
+R12
+R4
+R5
+L0 104
+R6
+r1
+!s85 0
+31
+R13
+R8
+R9
+!i113 1
+R10

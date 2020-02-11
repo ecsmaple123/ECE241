@@ -1,0 +1,16 @@
+module tflipflop(clock, resetn, t, q);
+	
+	input clock, resetn, t;
+	output reg q;
+	
+	always @(posedge clock)
+	begin
+		if(!resetn)
+			q <= 1'b0;
+		else if (t)
+			q <= ~q;
+		
+		else 
+			q <= q;
+	end 
+endmodule

@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Forest/Desktop/School/U of T/Second Year/ECE241/lab7/part2
+vcontrol
+Z1 !s110 1573165527
+!i10b 1
+!s100 7gD_QKYIHE7ncc1<`@WeQ3
+IIYc=2e^EYg0lo0MHLAcTH2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1573163203
+Z4 8lab7part2.v
+Z5 Flab7part2.v
+L0 129
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1573165527.000000
+Z8 !s107 lab7part2.v|
+Z9 !s90 -reportprogress|300|lab7part2.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R1
+!i10b 1
+!s100 @1BlPToVEUY4B1[DY[hGM3
+I[zNiklTAJOjZe0QfA5FOj3
+R2
+R0
+R3
+R4
+R5
+L0 70
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vlab7part2
+R1
+!i10b 1
+!s100 ;hf@W:cnGU>SdS]Z;lNOQ2
+IKZ7SQzYI_[_7dz>lL]Zfo0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
